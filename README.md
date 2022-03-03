@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Tech Enthusiant , Web-developer,Competitive Programmer .</h3>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="center" padding="3px">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryash-kumar-jha-4b1ab71bb" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jha_suryash9" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joblesscoder2468" height="30" width="40" /></a>
