@@ -5,6 +5,7 @@
 
 **I'm a frontend web developer, a competitive programmer, an open source enthusiast.**
 
+<img src="https://mpng.subpng.com/20190513/vqx/kisspng-emoji-handshake-emoticon-smiley-portable-network-g-free-hand-emoji-clipart-download-free-clip-art-on-5cd9193b762d58.5793309915577316434841.jpg" alt="Italian Trulli">
 <h3 align="left">Connect with me:</h3>
 <p align="left" padding="3px" space-between="7px">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryash-kumar-jha-4b1ab71bb" height="30" width="40" /></a>
