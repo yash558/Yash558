@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Sharma.</h1>
+<h1>Hi there, I am Yash Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="29"> </h1>
 <h3 align="center">A passionate Tech Enthusiant , Web-developer,Competitive Programmer .</h3>
 
 ## 🚀 *About me*
