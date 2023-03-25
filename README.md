@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps, Blockchain **
 
-- 💬 Ask me about **FLUTTER , MERN And NEXTJS**
+- 💬 Ask me about **Flutter , Mern And NextJs**
 
 - 📫 How to reach me **yashsharma06033@gmail.com**
 
@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-sharma20/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yashsharma06033/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_sharma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCxESkz0acr9m1_BG23iMGgw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yash sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-sharma20/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yashsharma06033/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_sharma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCxESkz0acr9m1_BG23iMGgw" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yash sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
