@@ -43,10 +43,12 @@
 
 ## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash558&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yash558" /></p>
-<img  src="https://github-readme-stats.vercel.app/api?username=yash558&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<p>
+  <img  src="https://github-readme-stats.vercel.app/api?username=yash558&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yash558&theme=dark" width="48%" >
 <br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash558&show_icons=true&locale=en&layout=compact&theme=dark" alt="yash558" /></p>
+
 
 <div align="center">
   
