@@ -51,3 +51,4 @@
 
 ## 🐍 Snake eating my contribution graph
 ![snake gif](https://github.com/yash558/yash558/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/yash558/yash558/output/github-contribution-grid-snake.svg" />
