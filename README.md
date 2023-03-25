@@ -36,7 +36,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash558" alt="yash558" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash558&theme=tokyonight" alt="yash558" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash558&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yash558" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash558&show_icons=true&locale=en&theme=tokyonight" alt="yash558" /></p>
