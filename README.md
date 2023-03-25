@@ -50,6 +50,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash558&&theme=tokyonight" alt="yash558" /></p>
 
+<img  src="https://github-readme-stats.vercel.app/api?username=yash558&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yash558&theme=dark" width="48%" >
+<br>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vishal-raj-1&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🐍 Snake eating my contribution graph
 
 <img src="https://raw.githubusercontent.com/yash558/yash558/output/github-contribution-grid-snake.svg" />
