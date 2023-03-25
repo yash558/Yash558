@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **yashsharma06033@gmail.com**
 
+- 👨‍💻 All of my projects are available at My Portfolio
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
