@@ -49,3 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash558&&theme=tokyonight" alt="yash558" /></p>
 
+![snake gif](https://github.com/yash558/yash558/blob/output/github-contribution-grid-snake.gif)
