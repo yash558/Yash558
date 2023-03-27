@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **yashsharma06033@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://yashsh-portfolio.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://yash-portfolio-24.netlify.app/)**
 
 - ⚡ Fun fact **I am Funny**
 
