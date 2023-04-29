@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Grow-Thri**
+- 🔭 Ex-Intern at **Grow-Thri**
 
 - 🌱 I’m currently learning **DevOps, Blockchain **
 
